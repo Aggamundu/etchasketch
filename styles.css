@@ -2,4 +2,13 @@
   display:flex;
   width:960px;
   height:960px;
+  flex-wrap: wrap;
+}
+#header{
+  display:flex;
+  justify-content: center;
+  align-items:s
+}
+h1{
+  margin-right: 50px;
 }
